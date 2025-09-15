@@ -1,0 +1,10 @@
+{
+  "target_user_id": "58953dcb3460945280efcf7b",
+  "email": {
+    "smtp_server": "smtp.163.com",
+    "smtp_port": 465,
+    "sender": "xxxxxxxx@163.com",
+    "password": "pwdxxx",
+    "receiver": "receiver@xx.com"
+  }
+}
